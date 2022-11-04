@@ -7,7 +7,6 @@ Stack:
 - node
 - yarn
 - docker
-- your coding skills
 
 ## Fetch dependencies
 
