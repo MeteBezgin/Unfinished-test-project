@@ -1,7 +1,3 @@
-# Valuecase Tech Challenge
-
-We have prepared a little skeleton for you to get productive immediately 🚀
-
 Stack:
 - PostgreSQL database
 - Nest.js Backend
